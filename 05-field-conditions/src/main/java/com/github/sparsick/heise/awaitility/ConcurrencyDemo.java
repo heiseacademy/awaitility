@@ -26,9 +26,6 @@ public class ConcurrencyDemo {
 
     }
 
-    boolean hasNewItem(){
-        return newItem;
-    }
 
     List<String> allItems() {
         return items;
